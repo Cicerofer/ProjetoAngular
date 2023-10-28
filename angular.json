@@ -72,6 +72,7 @@
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
             "browserTarget": "projectangular:build"
+           
           }
         },
         "test": {
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "ef648301-f740-4075-a09c-0e95df653778"
   }
 }
